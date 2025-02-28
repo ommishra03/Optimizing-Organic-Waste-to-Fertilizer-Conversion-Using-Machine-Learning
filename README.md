@@ -21,9 +21,9 @@ The dataset used in this project contains encoded information on various paramet
 
 ## How to Run the Project
 1. Clone the repository:
-  
+   ```sh
    git clone https://github.com/ommishra03/project-repo.git
-   
+   ```
 3. Install the required dependencies:
    ```sh
    pip install -r requirements.txt
