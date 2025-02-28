@@ -1,4 +1,3 @@
-```markdown
 # Optimizing Organic Waste to Fertilizer Conversion Using Machine Learning
 
 ## Project Overview
@@ -22,14 +21,14 @@ The dataset used in this project contains encoded information on various paramet
 
 ## How to Run the Project
 1. Clone the repository:
-   ```sh
+  
    git clone https://github.com/ommishra03/project-repo.git
-   ```
-2. Install the required dependencies:
+   
+3. Install the required dependencies:
    ```sh
    pip install -r requirements.txt
    ```
-3. Open the Jupyter Notebook and execute the cells sequentially.
+4. Open the Jupyter Notebook and execute the cells sequentially.
 
 ## Results and Insights
 - The project provides insights into the best conditions for converting organic waste into fertilizer.
